@@ -1,3 +1,6 @@
+// Paste into the "Before </body> Tag" section of your Webflow page or site
+// Be sure to update the ID of your Rive element to match the ID on line 20 below
+
 <script >
 
   window.onload = function () {
